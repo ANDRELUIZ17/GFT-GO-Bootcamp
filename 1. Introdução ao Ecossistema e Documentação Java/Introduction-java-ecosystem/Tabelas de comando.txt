@@ -1,0 +1,44 @@
+Git bash
+comandos:
+ .git clone  -  clona os projetos
+ 
+ .cd  e o nome do repositorio
+ .git status -  ve se esta tudo certo
+ .git add - para confirmar qualquer mudança no arquivo dentro da pasta
+ .git commit -m " e coloca qualquer msg aqui para mandarpara o repositorio no servidor do github"
+ .git push origin main - quando dermos esse comnado estaviando todos os commits que estão localmente pra nuvem
+ 
+ Criando diretorio do nosso projetos
+ 
+ mkdir src
+ cd src/  // para adentrar a pasta
+ 
+ mkdir com
+ cd com/
+ 
+ mkdir dio
+ cd dio
+ 
+ Para compilar e executar o nosso programa
+ 
+ jabba use openjdk@1.11  aqui é para escolher a versão que a gente quer
+ 
+ javac -d target/ -sourcepath src/ src/com/dio/MyFirstProgram.java cria uma pasta target
+ 
+ cd target/  para entrar na pasta
+ cd com/dio 
+ ls
+ resultado: base MyFirstProgram.class
+ 
+ 
+ Executando a pasta target/
+ 
+ java com.dio.MyFirstProgram
+ Order= {code='code1234 ' }
+ 
+
+ 
+ 
+ 
+ 
+ 
