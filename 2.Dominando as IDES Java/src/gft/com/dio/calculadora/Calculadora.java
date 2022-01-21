@@ -22,9 +22,9 @@ public class Calculadora {
 		double divisao = divisao(a,b);
 		
 		System.out.println("soma= " + soma);
-		System.out.println("subtração= " + subtracao);
-		System.out.println("multiplicação= " + multiplicacao);
-		System.out.println("divisão= " + divisao);
+		System.out.println("subtracao= " + subtracao);
+		System.out.println("multiplicacao= " + multiplicacao);
+		System.out.println("divisao= " + divisao);
 	}
 	
 	public static double soma (double a, double b) {
