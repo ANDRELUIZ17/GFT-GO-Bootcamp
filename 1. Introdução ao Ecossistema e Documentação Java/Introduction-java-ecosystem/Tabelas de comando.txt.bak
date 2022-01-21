@@ -36,6 +36,10 @@ comandos:
  java com.dio.MyFirstProgram
  Order= {code='code1234 ' }
  
+ Para gerar meus arquivos em HTML do javadoc 
+ javadoc -d javadoc/ -sourcepath src/ -subpackages com.dio
+
+ 
 
  
  

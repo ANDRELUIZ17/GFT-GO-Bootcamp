@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/1. Introdução ao Ecossistema e Documentação Java.iml" filepath="$PROJECT_DIR$/.idea/1. Introdução ao Ecossistema e Documentação Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.Introduction-java-ecosystem/1.Introduction-java-ecosystem.iml" filepath="$PROJECT_DIR$/1.Introduction-java-ecosystem/1.Introduction-java-ecosystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.Estrutura de condição/2.Estrutura de condição.iml" filepath="$PROJECT_DIR$/2.Estrutura de condição/2.Estrutura de condição.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.Estrutura de repetição/3.Estrutura de repetição.iml" filepath="$PROJECT_DIR$/3.Estrutura de repetição/3.Estrutura de repetição.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.15 Tags Javadoc/4.15 Tags Javadoc.iml" filepath="$PROJECT_DIR$/4.15 Tags Javadoc/4.15 Tags Javadoc.iml" />
+    </modules>
+  </component>
+</project>
