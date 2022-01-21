@@ -25,6 +25,8 @@ public class Calculadora {
 		System.out.println("subtracao= " + subtracao);
 		System.out.println("multiplicacao= " + multiplicacao);
 		System.out.println("divisao= " + divisao);
+		
+		scan.close();
 	}
 	
 	public static double soma (double a, double b) {
@@ -38,6 +40,14 @@ public class Calculadora {
 	}
 	public static double multiplicacao (double a, double b) {
 		return a * b;
+	}
+
+	public static double getSubtracao() {
+		return subtracao;
+	}
+
+	public static void setSubtracao(double subtracao) {
+		Calculadora.subtracao = subtracao;
 	}
 
 }
