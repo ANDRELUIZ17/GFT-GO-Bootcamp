@@ -38,7 +38,30 @@ comandos:
  
  Para gerar meus arquivos em HTML do javadoc 
  javadoc -d javadoc/ -sourcepath src/ -subpackages com.dio
+ 
+ 
+ 
+ Anbiente de Desenvolvimento Windows
+ 
+ instalação JDK e Git no windows
+ comandos:
+ java --version  para verificar se tem o java instalado
+ git --version  //     //          //  o git instalado
+ 
+ 
+Configurar o gitBash
+comandos:
 
+git config --global user.nome " seu nome"
+
+git config --list
+
+
+Executar um arquivo txt em java
+comandos:
+
+javac PrimeiroPrograma.java
+java PrimeiroPrograma
  
 
  
