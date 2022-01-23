@@ -1,6 +1,6 @@
 {
   "java.project.sourcePaths": [
-    "1. Introdução ao Ecossistema e Documentação Java/src",
-    "src/com/company"
+    "src/com/company",
+    "3.Primeiro-projeto-intellij/src/gft/com/dio"
   ]
 }
