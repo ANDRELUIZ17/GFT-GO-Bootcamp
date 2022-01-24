@@ -13,6 +13,10 @@ public class PrimeiroPrograma {
         System.out.println(livro1);
 
 
+        Livro livro1 = new Livro("O problema dos 3 corpos",null);
+        System.out.println(livro1);
+
+
         /*int a = 5;
         int b = 3;
         System.out.println("Hello World! " + (a + b));*/

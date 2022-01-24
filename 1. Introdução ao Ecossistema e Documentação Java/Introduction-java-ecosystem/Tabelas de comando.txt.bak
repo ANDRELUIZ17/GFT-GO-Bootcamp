@@ -63,6 +63,11 @@ comandos:
 javac PrimeiroPrograma.java
 java PrimeiroPrograma
  
+ 
+ Atalhos Intellij
+ 
+ criar class ou package
+ comando alt + insert
 
  
  

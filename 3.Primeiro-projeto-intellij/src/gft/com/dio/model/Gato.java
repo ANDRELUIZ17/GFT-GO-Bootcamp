@@ -8,6 +8,7 @@ public class Gato {
     private String cor;
     private String idade;
 
+
     public Gato() {}
 
     public Gato(String nome, String cor, String idade) {
