@@ -14,7 +14,7 @@ public class Gato {
     public Gato(String nome, String cor, String idade) {
         this.nome = nome;
         this.cor = cor;
-        this.idade = idade;
+        this.idade = idade ;
     }
 
     public String getNome() {
