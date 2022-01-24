@@ -68,7 +68,33 @@ java PrimeiroPrograma
  
  criar class ou package
  comando alt + insert
+ 
+ Para executar o programa
+ Ctrl + shift + F10
+ 
+ Iniciar o construtor
+ alt + insert
+ 
+ Para comentar um bloco inteiro
+ 
+ Ctrl + shifth + /
 
+Para refatorar a nossa classe
+
+shifth  + f6
+
+Para fazer a indentação
+
+Ctrl + ALT + L 
+
+Duplicar  linha de código
+Ctrl + D
+
+Mudar a linha pra cima ou pra baixao
+
+Ctrl + shifth + seta pra cima
+
+para fazer uma variavel ctrl + alt + v
  
  
  
