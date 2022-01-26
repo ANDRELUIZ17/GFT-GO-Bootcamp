@@ -18,18 +18,18 @@ public class Ex3_NumerosAleatorios {
             numerosAleatorios[i] = numero;
         }
 
-        System.out.println("Numeros Aleatorios: ");
+        System.out.print("Numeros Aleatorios: ");
         for (int numero  : numerosAleatorios) {
-            System.out.println(numero + " ");
+            System.out.print(numero + " ");
         }
-        System.out.println("\nAntecessor dos Numeros Aleatórios: ");
+        System.out.print("\nAntecessor dos Numeros Aleatórios: ");
 
         for (int numero : numerosAleatorios) {
-            System.out.println((numero - 1) + " ");
+            System.out.print((numero - 1) + " ");
         }
-        System.out.println("\nSucessores dos Números Aleatórios: ");
+        System.out.print("\nSucessores dos Números Aleatórios: ");
         for (int numero : numerosAleatorios) {
-            System.out.println((numero + 1) + " ");
+            System.out.print((numero + 1) + " ");
         }
     }
 
