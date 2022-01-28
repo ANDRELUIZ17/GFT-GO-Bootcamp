@@ -29,8 +29,8 @@ public class TestIntController {
 	
 	@Test
 	public void testIntComArgumento() throws Exception {
-		mvc.perform(get("/test?nome=Renan"))
-			.andExpect(content().string("Bem-vindo, Renan"));
+		mvc.perform(get("/test?nome=André"))
+			.andExpect(content().string("Bem-vindo, André"));
 	}
 
 }
