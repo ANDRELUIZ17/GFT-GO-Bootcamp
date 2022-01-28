@@ -12,7 +12,7 @@ public class AgendaController {
 	public Contato retornaContato() {
 		return Contato.builder()
 				.id(1L)
-				.nome("Renan")
+				.nome("André")
 				.telefone("9999-9999")
 				.build();
 	}
