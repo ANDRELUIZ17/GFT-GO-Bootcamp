@@ -1,0 +1,1 @@
+Neste desafio tem dois Banco digitais o desafio e o Banco digital aperte no intellij para rodar Crtl + shift + F10.
