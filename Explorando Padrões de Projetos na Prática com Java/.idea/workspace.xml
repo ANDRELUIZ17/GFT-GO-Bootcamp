@@ -2,10 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7aff27a-7bee-43d0-b4dc-3f6ace9d1be4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Explorando Projetos na prática/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Explorando Pradões de Projetos Java/lab-padroes-projeto-java-main/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Explorando Pradões de Projetos Java/lab-padroes-projeto-java-main/.idea/git_toolbox_prj.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Explorando Pradões de Projetos Java/lab-padroes-projeto-java-main/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Explorando Pradões de Projetos Java/lab-padroes-projeto-java-main/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Explorando Pradões de Projetos Java/lab-padroes-projeto-java-main/out/production/lab-padroes-projeto-java-main/one/digitalinnovation/gof/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Explorando Pradões de Projetos Java/lab-padroes-projeto-java-main/out/production/lab-padroes-projeto-java-main/one/digitalinnovation/gof/singleton/SingletonLazy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Explorando Pradões de Projetos Java/lab-padroes-projeto-java-main/out/production/lab-padroes-projeto-java-main/one/digitalinnovation/gof/singleton/SingletonLazyHolder$InstanceHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Explorando Pradões de Projetos Java/lab-padroes-projeto-java-main/out/production/lab-padroes-projeto-java-main/one/digitalinnovation/gof/singleton/SingletonLazyHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Explorando Pradões de Projetos Java/lab-padroes-projeto-java-main/out/production/lab-padroes-projeto-java-main/one/digitalinnovation/gof/strategy/ComportamentoAgressivo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Explorando Pradões de Projetos Java/lab-padroes-projeto-java-main/src/one/digitalinnovation/gof/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Explorando Pradões de Projetos Java/lab-padroes-projeto-java-main/src/one/digitalinnovation/gof/facade/Facade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Explorando Pradões de Projetos Java/lab-padroes-projeto-java-main/src/one/digitalinnovation/gof/singleton/SingletonEager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Explorando Pradões de Projetos Java/lab-padroes-projeto-java-main/src/one/digitalinnovation/gof/singleton/SingletonLazy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Explorando Pradões de Projetos Java/lab-padroes-projeto-java-main/src/one/digitalinnovation/gof/singleton/SingletonLazyHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Explorando Pradões de Projetos Java/lab-padroes-projeto-java-main/src/one/digitalinnovation/gof/strategy/ComportamentoAgressivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Explorando Pradões de Projetos Java/lab-padroes-projeto-java-main/src/one/digitalinnovation/gof/strategy/Robo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Explorando Pradões de Projetos Java/lab-padroes-projeto-java-main/src/subsistema1/crm/CrmService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Explorando Pradões de Projetos Java/lab-padroes-projeto-java-main/src/subsistema2/cep/CepApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-Padrões-Projetos-Spring/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-Padrões-Projetos-Spring/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-Padrões-Projetos-Spring/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-Padrões-Projetos-Spring/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-Padrões-Projetos-Spring/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-Padrões-Projetos-Spring/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-Padrões-Projetos-Spring/src/main/java/one/digitalinnovation/gof/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-Padrões-Projetos-Spring/src/main/java/one/digitalinnovation/gof/LabPadroesProjetosSpringApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-Padrões-Projetos-Spring/src/main/java/one/digitalinnovation/gof/controller/ClienteRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-Padrões-Projetos-Spring/src/main/java/one/digitalinnovation/gof/model/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-Padrões-Projetos-Spring/src/main/java/one/digitalinnovation/gof/model/ClienteRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-Padrões-Projetos-Spring/src/main/java/one/digitalinnovation/gof/model/Endereco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-Padrões-Projetos-Spring/src/main/java/one/digitalinnovation/gof/model/EnderecoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-Padrões-Projetos-Spring/src/main/java/one/digitalinnovation/gof/service/ClienteService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-Padrões-Projetos-Spring/src/main/java/one/digitalinnovation/gof/service/ViaCepService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-Padrões-Projetos-Spring/src/main/java/one/digitalinnovation/gof/service/impl/ClienteServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-Padrões-Projetos-Spring/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab-Padrões-Projetos-Spring/src/test/java/one/digitalinnovation/gof/LabPadroesProjetosSpringApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-padroes-projeto-spring-main/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-padroes-projeto-spring-main/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-padroes-projeto-spring-main/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +49,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="24QctRxZJsVHDEEk0rphxZ4V8E5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -25,6 +63,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -35,6 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1643566473778</updated>
       <workItem from="1643566480809" duration="137000" />
+      <workItem from="1643569815874" duration="329000" />
     </task>
     <servers />
   </component>
