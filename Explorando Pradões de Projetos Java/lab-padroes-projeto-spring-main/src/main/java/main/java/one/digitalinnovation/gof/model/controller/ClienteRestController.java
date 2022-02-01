@@ -1,4 +1,4 @@
-package main.java.one.digitalinnovation.gof.controller;
+package main.java.one.digitalinnovation.gof.model.controller;
 
 import main.java.one.digitalinnovation.gof.service.ClienteService;
 import org.springframework.beans.factory.annotation.Autowired;
