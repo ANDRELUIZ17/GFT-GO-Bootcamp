@@ -42,42 +42,52 @@ public class Conta extends Instituicao{
     }
 
     public static Double getSaldo() {
+
         return saldo;
     }
 
     public void setSaldo(Double saldo) {
+
         this.saldo = saldo;
     }
 
     public Pessoa getPessoa() {
+
         return pessoa;
     }
 
     public void setPessoa(Pessoa pessoa) {
+
         this.pessoa = pessoa;
     }
 
     public Date getDataAbertura() {
+
         return dataAbertura;
     }
 
     public void setDataAbertura(Date dataAbertura) {
+
         this.dataAbertura = dataAbertura;
     }
 
     public CartaoCredito getCartaoCredito() {
+
         return cartaoCredito;
     }
 
     public void setCartaoCredito(CartaoCredito cartaoCredito) {
+
         this.cartaoCredito = cartaoCredito;
     }
 
     public boolean isPossuiCredito() {
+
         return possuiCredito;
     }
 
     public void setPossuiCredito(boolean possuiCredito) {
+
         this.possuiCredito = possuiCredito;
     }
 }

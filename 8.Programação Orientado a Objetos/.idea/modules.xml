@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.Estrutura Básica da 00/1.Estrutura Básica da 00.iml" filepath="$PROJECT_DIR$/1.Estrutura Básica da 00/1.Estrutura Básica da 00.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.AS relações- Herança, Associação e Interface/2.AS relações- Herança, Associação e Interface.iml" filepath="$PROJECT_DIR$/2.AS relações- Herança, Associação e Interface/2.AS relações- Herança, Associação e Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.Herança, Associação e Interface/3.Herança, Associação e Interface.iml" filepath="$PROJECT_DIR$/3.Herança, Associação e Interface/3.Herança, Associação e Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.Herança-parte2/4.Herança-parte2.iml" filepath="$PROJECT_DIR$/4.Herança-parte2/4.Herança-parte2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.Associação/5.Associação.iml" filepath="$PROJECT_DIR$/5.Associação/5.Associação.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.Interface/6.Interface.iml" filepath="$PROJECT_DIR$/6.Interface/6.Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/8.Programação Orientado a Objetos.iml" filepath="$PROJECT_DIR$/.idea/8.Programação Orientado a Objetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.A organização de pacotes e visibilidade/Pacotes/Pacotes.iml" filepath="$PROJECT_DIR$/7.A organização de pacotes e visibilidade/Pacotes/Pacotes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.A organização de pacotes e visibilidade/Visibilidade/Visibilidade.iml" filepath="$PROJECT_DIR$/7.A organização de pacotes e visibilidade/Visibilidade/Visibilidade.iml" />
+    </modules>
+  </component>
+</project>

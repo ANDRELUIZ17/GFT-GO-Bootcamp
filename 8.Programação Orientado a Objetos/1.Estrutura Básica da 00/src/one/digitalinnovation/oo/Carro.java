@@ -1,8 +1,8 @@
 package one.digitalinnovation.oo;
 
-import com.sun.source.tree.BreakTree;
 
-public class Carro {
+
+public class Carro<String> {
     String cor;
     String modelo;
     int capacidadeTanque;

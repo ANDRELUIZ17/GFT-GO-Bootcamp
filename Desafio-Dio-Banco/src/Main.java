@@ -5,7 +5,7 @@ public class Main {
         Cliente Andre = new Cliente();
         Andre.setNome("André Luiz");
 
-        Conta cc = new ContaCorrente(Andre);
+        Conta cc = new ContaCorrente(Andre); // upcast
         Conta poupanca = new ContaPoupanca(Andre);
 
         cc.depositar(100);
